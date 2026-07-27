@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'idroid';
-    src: url('../fontes/idroid.otf') format('opentype');
+    src: url('fontes/idroid.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
@@ -36,7 +36,7 @@ header > h1 {
 }
 
 header p {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 /* MENU */
@@ -50,7 +50,7 @@ nav {
 
 nav a {
     text-decoration: none;
-    color: #3DDC84;
+    color: white;
     font-weight: bold;
     padding: 10px;
     
